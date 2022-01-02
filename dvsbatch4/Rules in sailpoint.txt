@@ -1,0 +1,80 @@
+Rules in Sailpoint
+
+Below are few commonly used rules in Sailpoint
+
+Sailpoint rules gets executed in the below order during aggregation
+Flow:
+
+Pre-Iterate Rule
+
+
+BuildMap Rule
+
+
+Managed Entitlement Customization Rule
+
+
+Customization rule
+
+
+Correlation rule
+
+
+Manager correlation rule
+
+
+Creation rule
+
+
+PostIterate Rule
+
+
+Pre-Iterate Rule: 
+1st rule that runs during aggregation
+You can perform below operations in this rule
+Check file existence
+Modify the data in the files
+Merge files
+
+
+BuildMap Rule: 
+2nd Rule thats runs during aggregation, Using build map rule you can deal with application schema ex: populate value for custom column for the application. Build map is not available for connected apps(JDBC has jdbc buildmap). Available only for disconnected apps like delimited files.
+
+Customization Rule:  Runs after buildmap rule, this can be used to transform data of resource object/account data during account aggregation
+Ex: if you have status value as ‘A’ in target and you want to transform this to ‘Active’ then you can go for this Rule.
+Use set/get attributes method on resource object already available as ‘object’ as argument for the rule. This rule gets executed in every aggregation.
+
+Correlation Rule: This rule is used to link target account to the identity, executes every aggregation.
+
+Manager Correlation Rule: This is used to link user to manager, runs every time.
+Used in HR Applications
+
+Creation Rule: Used to set values during identity/account creation for the first time, Executed only for the first time.
+
+PostIterate Rule: Last rule that runs after aggregation,
+
+Can be used to archive files.
+===================================================================================
+•Works with customers to fully understand their needs and requirements and provides appropriate
+solutions to meet their needs on an on-going basis.
+•Ensures the customer understands how the solutions recommended meet their needs by seeking
+feedback from the customer.
+•Administer access to banking systems by creating, maintaining and deleting user ids on various
+platforms and applications.
+•Generate & review productivity & quality analysis for the month.
+•Assisting the manager with audit requirements & providing required walkthroughs.
+•On boarding new applications within the scope of support.
+•Involved with service now project in the migration from SDM to Service now.
+•Ensuring all the process changes are tracked and updated in the relevant documents.
+•Provided technical advice for the design of provisioning flows and Role Based Access Control
+entitlements.
+•As a senior member of the team as a specialist provided second-tier technical support.
+•Prepared I&AM strategy documents, process and procedure documents.
+•Conducting training sessions for teams on IAM concepts, IAM Risks and security awareness.
+•Identify security improvements for user access by liaising with customers, business unit risk
+managers, platform owners, application owners and Information Security Managers.
+•Work collaboratively with other segments within the bank to identify opportunities for growth,
+maximise share of wallet and meet customer needs.
+•Assist in producing plans/reports to ensure team performance is optimal and recognized.
+•Ensuring team is compliant with relevant trainings & updating timesheets.
+•Worked on projects for SG and HK Lantern.

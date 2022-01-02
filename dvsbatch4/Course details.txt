@@ -1,0 +1,74 @@
+Please find the below course content and cost details which includes all the below. Revert to me on the email for any clarifications.
+
+Cost : 16,000 INR (self learning) 
+Cost : 50,000 INR (instructor)
+Delivery Time : Immediate
+If interested please reply on this email 
+- goindiait@gmail.com
+
+Please note that this is only self placed recorded videos and there will be no live - instructor.
+Promising you the great content from best trainers and a very deep explaination on every below mentioned topic wise.
+
+Below will be provided : ( Life-Time Access )
+
+1. Sailpoint course recorded videos ( Approx 35 hours of class )  -- videos from 2 Trainers ( 35 hours + 35 hours = 70 hours )
+2. Complete Course Materials in DOC and PDF format
+3. Sailpoint tools ( v7.0, 7.3, 8.0, 8.1 , SSD, SSB, Accelerator, IIQDA etc ) along with the patch files
+4. Connectors and Integration files
+5. Exercise Document which includes all the modules in sailpoint
+6. Inbuilt Sailpoint VMWare environment in Linux - Cent OS
+7. Raw Data to practice the sessions
+8. Sample Sailpoint Resumes
+9. Interview Question & Answers
+10 Sailpoint Advanced Documentation
+
+
+SailPoint IIQ Course Beginner + Intermediate Course content :  All the below topics are covered from both instructor videos, you can choose either of them to learn
+
+1. Overview of Sailpoint IIQ and Architecture
+2. Installation, Patching & Deploying Modules
+3. Monitoring & Configuration IIQ
+4. Application On-Boarding - Auth & Non-Authoritative Applications
+5. Extended Attributes
+6. WorkGroups, Populations
+7. Risk Model
+8. Policy Violation
+9. Certifications
+10. Life Cycle Manager
+11  Business Process or WorkFlow
+12. Role Based Access Control ( RBAC )
+13. Rules & API
+14, Audit, Analytics and Custom Reports
+15. Scope
+16. OOTB Connectors
+17. Using Web Services - REST
+18. SSO by Okta and by Rule , Self Signed Certificate
+19. Plugin
+20. Project Build - SSD
+21. Forms and Quick Links
+22. Events - LifeCycle & Certification
+23. Java Docs and Filters
+24. Integration Config & Custom Connectors
+25. Tasks - Scheduled and Custom Tasks
+26. IIQDA
+27. Special Case Connectors
+28. Password Encryption/Decryption
+29. Debugging and Troubleshooting
+30. IIQ Console
+
+For getting access you need to create an account in Mega cloud 
+
+Link: www.mega.nz
+
+once you create account with your gmail id get me the same email address to get access 
+
+Once payment is done i will share the 43 GB data on mega cloud with lifetime access
+
+SailPoint application : Life time
+Vmware : Linux environment life time
+
+Regards
+Ankur 
+Senoir manager Cyber security
+(SailPoint, Okta, Cyberark, Ping Federate)
+www.sailpoint.com 
